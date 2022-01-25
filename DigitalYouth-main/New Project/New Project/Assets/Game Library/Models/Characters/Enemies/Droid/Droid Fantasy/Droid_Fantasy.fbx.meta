@@ -1,0 +1,1754 @@
+fileFormatVersion: 2
+guid: e496862fcbb42fa41aac5030bd534722
+timeCreated: 1480975642
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna1_1
+    100002: Antenna1_2
+    100004: Antenna1_3
+    100006: Antenna1_4
+    100008: Antenna2
+    100010: Body
+    100012: Bone
+    100014: Bone_005
+    100016: Droid_Arm_Mesh
+    100018: Droid_Backpack
+    100020: Droid_Body_Mesh
+    100022: Droid_Eye_Mesh
+    100024: Droid_Fantasy
+    100026: //RootNode
+    100028: Droid_Hand_Mesh
+    100030: Droid_Head
+    100032: Droid_Propellar_Mesh
+    100034: Droid_Shoulder_Mesh
+    100036: Enemy_Detail_Mesh
+    100038: Enemy_Vine1
+    100040: Enemy_Vine10
+    100042: Enemy_Vine11
+    100044: Enemy_Vine12
+    100046: Enemy_Vine2
+    100048: Enemy_Vine3
+    100050: Enemy_Vine4
+    100052: Enemy_Vine5
+    100054: Enemy_Vine6
+    100056: Enemy_Vine7
+    100058: Enemy_Vine8
+    100060: Enemy_Vine9
+    100062: Enemy_Vine_Base
+    100064: Eyeball
+    100066: Fantasy_Droid_Armature
+    100068: Fuel_Pack
+    100070: Fuel_Tank
+    100072: Head
+    100074: L_ArmIK
+    100076: L_Hand
+    100078: L_Little_Distal
+    100080: L_Little_Intermediate
+    100082: L_Little_Proximial
+    100084: L_LowerArm
+    100086: L_LowerExhaust
+    100088: L_Middle_Distal
+    100090: L_Middle_Intermediate
+    100092: L_Middle_Proximial
+    100094: L_Pointer_Distal
+    100096: L_Pointer_Intermediate
+    100098: L_Pointer_Proximial
+    100100: L_Thumb_Distal
+    100102: L_Thumb_Intermediate
+    100104: L_Thumb_Proximial
+    100106: L_Upper_Exhaust
+    100108: L_UpperArm
+    100110: L_UpperArm_001
+    100112: Plane
+    100114: Propellar
+    100116: R_ArmIK
+    100118: R_Hand
+    100120: R_Little_Distal
+    100122: R_Little_Intermediate
+    100124: R_Little_Proximial
+    100126: R_LowerArm
+    100128: R_LowerExhaust
+    100130: R_Middle_Distal
+    100132: R_Middle_Intermediate
+    100134: R_Middle_Proximial
+    100136: R_Pointer_Distal
+    100138: R_Pointer_Intermediate
+    100140: R_Pointer_Proximial
+    100142: R_Thumb_Distal
+    100144: R_Thumb_Intermediate
+    100146: R_Thumb_Proximial
+    100148: R_UpperArm
+    100150: R_UpperArm_001
+    100152: R_UpperExhaust
+    100154: Wire1
+    100156: Wire2
+    400000: Antenna1_1
+    400002: Antenna1_2
+    400004: Antenna1_3
+    400006: Antenna1_4
+    400008: Antenna2
+    400010: Body
+    400012: Bone
+    400014: Bone_005
+    400016: Droid_Arm_Mesh
+    400018: Droid_Backpack
+    400020: Droid_Body_Mesh
+    400022: Droid_Eye_Mesh
+    400024: Droid_Fantasy
+    400026: //RootNode
+    400028: Droid_Hand_Mesh
+    400030: Droid_Head
+    400032: Droid_Propellar_Mesh
+    400034: Droid_Shoulder_Mesh
+    400036: Enemy_Detail_Mesh
+    400038: Enemy_Vine1
+    400040: Enemy_Vine10
+    400042: Enemy_Vine11
+    400044: Enemy_Vine12
+    400046: Enemy_Vine2
+    400048: Enemy_Vine3
+    400050: Enemy_Vine4
+    400052: Enemy_Vine5
+    400054: Enemy_Vine6
+    400056: Enemy_Vine7
+    400058: Enemy_Vine8
+    400060: Enemy_Vine9
+    400062: Enemy_Vine_Base
+    400064: Eyeball
+    400066: Fantasy_Droid_Armature
+    400068: Fuel_Pack
+    400070: Fuel_Tank
+    400072: Head
+    400074: L_ArmIK
+    400076: L_Hand
+    400078: L_Little_Distal
+    400080: L_Little_Intermediate
+    400082: L_Little_Proximial
+    400084: L_LowerArm
+    400086: L_LowerExhaust
+    400088: L_Middle_Distal
+    400090: L_Middle_Intermediate
+    400092: L_Middle_Proximial
+    400094: L_Pointer_Distal
+    400096: L_Pointer_Intermediate
+    400098: L_Pointer_Proximial
+    400100: L_Thumb_Distal
+    400102: L_Thumb_Intermediate
+    400104: L_Thumb_Proximial
+    400106: L_Upper_Exhaust
+    400108: L_UpperArm
+    400110: L_UpperArm_001
+    400112: Plane
+    400114: Propellar
+    400116: R_ArmIK
+    400118: R_Hand
+    400120: R_Little_Distal
+    400122: R_Little_Intermediate
+    400124: R_Little_Proximial
+    400126: R_LowerArm
+    400128: R_LowerExhaust
+    400130: R_Middle_Distal
+    400132: R_Middle_Intermediate
+    400134: R_Middle_Proximial
+    400136: R_Pointer_Distal
+    400138: R_Pointer_Intermediate
+    400140: R_Pointer_Proximial
+    400142: R_Thumb_Distal
+    400144: R_Thumb_Intermediate
+    400146: R_Thumb_Proximial
+    400148: R_UpperArm
+    400150: R_UpperArm_001
+    400152: R_UpperExhaust
+    400154: Wire1
+    400156: Wire2
+    4300000: Droid_Propellar_Mesh
+    4300002: Droid_Fantasy
+    4300004: Plane
+    4300006: Droid_Hand_Mesh
+    4300008: Droid_Arm_Mesh
+    4300010: Droid_Backpack
+    4300012: Fuel_Tank
+    4300014: Droid_Head
+    4300016: Droid_Eye_Mesh
+    4300018: Droid_Shoulder_Mesh
+    4300020: Droid_Body_Mesh
+    4300022: Enemy_Detail_Mesh
+    7400000: Fantasy_Droid_Attack1
+    7400002: Fantasy_Droid_Attack2
+    7400004: Fantasy_Droid_Default
+    7400006: Fantasy_Droid_Hit1
+    7400008: Fantasy_Droid_Hit2
+    7400010: Fantasy_Droid_Idle
+    7400012: Fantasy_Droid_PlayerLost
+    7400014: Fantasy_Droid_Run
+    9500000: //RootNode
+    13700000: Droid_Arm_Mesh
+    13700002: Droid_Backpack
+    13700004: Droid_Body_Mesh
+    13700006: Droid_Eye_Mesh
+    13700008: Droid_Fantasy
+    13700010: Droid_Hand_Mesh
+    13700012: Droid_Head
+    13700014: Droid_Propellar_Mesh
+    13700016: Droid_Shoulder_Mesh
+    13700018: Enemy_Detail_Mesh
+    13700020: Fuel_Tank
+    13700022: Plane
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fantasy_Droid_Attack1
+      takeName: Fantasy_Droid_Attack1
+      firstFrame: 23
+      lastFrame: 31
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 31
+    - serializedVersion: 16
+      name: Fantasy_Droid_Attack2
+      takeName: Fantasy_Droid_Attack2
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_Default
+      takeName: Fantasy_Droid_Default
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_Hit1
+      takeName: Fantasy_Droid_Hit1
+      firstFrame: -1
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_Hit2
+      takeName: Fantasy_Droid_Hit2
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_Idle
+      takeName: Fantasy_Droid_Idle
+      firstFrame: -1
+      lastFrame: 219
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_PlayerLost
+      takeName: Fantasy_Droid_PlayerLost
+      firstFrame: -1
+      lastFrame: 117
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Droid_Run
+      takeName: Fantasy_Droid_Run
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_Fantasy
+        weight: 1
+      - path: Droid_Hand_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Propellar_Mesh
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Enemy_Detail_Mesh
+        weight: 1
+      - path: Fantasy_Droid_Armature
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Enemy_Vine_Base/Propellar
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_Upper_Exhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/L_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_LowerExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperArm_001
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/R_UpperExhaust
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Fantasy_Droid_Armature/Bone/Body/Wire2
+        weight: 1
+      - path: Fuel_Tank
+        weight: 1
+      - path: Plane
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

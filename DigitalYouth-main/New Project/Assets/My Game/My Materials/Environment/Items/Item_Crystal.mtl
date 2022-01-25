@@ -1,0 +1,12 @@
+# Blender MTL File: 'Environment_Models_V3.blend'
+# Material Count: 1
+
+newmtl Item_Shard
+Ns 96.078431
+Ka 0.282723 0.282723 0.282723
+Kd 0.024276 0.777145 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.009225 0.295315 0.304000
+Ni 1.000000
+d 1.000000
+illum 3

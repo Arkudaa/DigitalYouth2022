@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1011 &101100000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Clover_Arm_Mask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Cape_Mesh1
+    m_Weight: 0
+  - m_Path: Hero_F_Armature
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/L_LegPT
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Head_Target
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+    m_Weight: 1
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/L_Thigh
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/R_Thigh
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+    m_Weight: 0
+  - m_Path: Hero_F_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_Belt
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_Body
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_Boots
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_Helmet
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_Hood
+    m_Weight: 0
+  - m_Path: Hero_F_Scfi_WristGaurds
+    m_Weight: 0

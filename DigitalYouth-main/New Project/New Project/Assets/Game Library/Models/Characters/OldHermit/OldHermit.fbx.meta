@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: e2d8ef265dcac4b20a6ff72c075a8361
+timeCreated: 1474056415
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Beard
+    100002: Beard3
+    100004: Beard_2
+    100006: Beard_4
+    100008: Beard_4_end
+    100010: Cube
+    100012: Cube.002
+    100014: Cube.005
+    100016: Cube.006
+    100018: Cube.007
+    100020: Cube.008
+    100022: Cylinder
+    100024: Head
+    100026: Head_Target
+    100028: Head_Target_end
+    100030: Hip
+    100032: Jaw
+    100034: L_Foot
+    100036: L_Foot_end
+    100038: L_Forearm
+    100040: L_Hand
+    100042: L_Hand.001
+    100044: L_Knee
+    100046: L_LegIK
+    100048: L_LegIK_end
+    100050: L_LegPT
+    100052: L_LegPT_end
+    100054: L_Thigh
+    100056: L_Thumb_Distal
+    100058: L_Thumb_Distal_end
+    100060: L_Thumb_Intermediate
+    100062: L_ThumbProximial
+    100064: L_UpperArm
+    100066: Neck
+    100068: Neck.001_L.001
+    100070: Neck.001_L.002
+    100072: Neck.001_L.003
+    100074: Neck.001_L.003_end
+    100076: Neck.001_R.001
+    100078: Neck.001_R.002
+    100080: Neck.001_R.003
+    100082: Neck.001_R.003_end
+    100084: //RootNode
+    100086: R_Foot
+    100088: R_Foot_end
+    100090: R_Forearm
+    100092: R_Hand
+    100094: R_Hand.001
+    100096: R_Knee
+    100098: R_LegIK
+    100100: R_LegIK_end
+    100102: R_LegPT
+    100104: R_LegPT_end
+    100106: R_Thigh
+    100108: R_Thumb_Distal
+    100110: R_Thumb_Distal_end
+    100112: R_Thumb_Intermediate
+    100114: R_ThumbProximial
+    100116: R_UpperArm
+    100118: Spine
+    100120: T1K1_Armature
+    100122: Waist
+    100124: WaistController
+    100126: WorldBone
+    400000: Beard
+    400002: Beard3
+    400004: Beard_2
+    400006: Beard_4
+    400008: Beard_4_end
+    400010: Cube
+    400012: Cube.002
+    400014: Cube.005
+    400016: Cube.006
+    400018: Cube.007
+    400020: Cube.008
+    400022: Cylinder
+    400024: Head
+    400026: Head_Target
+    400028: Head_Target_end
+    400030: Hip
+    400032: Jaw
+    400034: L_Foot
+    400036: L_Foot_end
+    400038: L_Forearm
+    400040: L_Hand
+    400042: L_Hand.001
+    400044: L_Knee
+    400046: L_LegIK
+    400048: L_LegIK_end
+    400050: L_LegPT
+    400052: L_LegPT_end
+    400054: L_Thigh
+    400056: L_Thumb_Distal
+    400058: L_Thumb_Distal_end
+    400060: L_Thumb_Intermediate
+    400062: L_ThumbProximial
+    400064: L_UpperArm
+    400066: Neck
+    400068: Neck.001_L.001
+    400070: Neck.001_L.002
+    400072: Neck.001_L.003
+    400074: Neck.001_L.003_end
+    400076: Neck.001_R.001
+    400078: Neck.001_R.002
+    400080: Neck.001_R.003
+    400082: Neck.001_R.003_end
+    400084: //RootNode
+    400086: R_Foot
+    400088: R_Foot_end
+    400090: R_Forearm
+    400092: R_Hand
+    400094: R_Hand.001
+    400096: R_Knee
+    400098: R_LegIK
+    400100: R_LegIK_end
+    400102: R_LegPT
+    400104: R_LegPT_end
+    400106: R_Thigh
+    400108: R_Thumb_Distal
+    400110: R_Thumb_Distal_end
+    400112: R_Thumb_Intermediate
+    400114: R_ThumbProximial
+    400116: R_UpperArm
+    400118: Spine
+    400120: T1K1_Armature
+    400122: Waist
+    400124: WaistController
+    400126: WorldBone
+    2300000: Cube
+    2300002: Cube.008
+    3300000: Cube
+    3300002: Cube.008
+    4300000: Cube.008
+    4300002: Cube
+    4300004: Cube.005
+    4300006: Cube.006
+    4300008: Cylinder
+    4300010: Cube.007
+    4300012: Cube.002
+    7400000: T1K1_Armature|NPC@Idle1
+    7400002: T1K1_Armature|NPC@Idle2
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube.002
+    13700002: Cube.005
+    13700004: Cube.006
+    13700006: Cube.007
+    13700008: Cylinder
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T1K1_Armature|NPC@Idle1
+      takeName: T1K1_Armature|NPC@Idle1
+      firstFrame: 0
+      lastFrame: 61
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.005
+        weight: 1
+      - path: Cube.006
+        weight: 1
+      - path: Cube.007
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: T1K1_Armature
+        weight: 1
+      - path: T1K1_Armature/WorldBone
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegIK
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegIK/L_LegIK_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegPT/L_LegPT_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegIK
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegIK/R_LegIK_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegPT
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegPT/R_LegPT_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Head_Target/Head_Target_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Cube.008
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal/L_Thumb_Distal_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3/Beard_4
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3/Beard_4/Beard_4_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002/Neck.001_L.003
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002/Neck.001_L.003/Neck.001_L.003_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002/Neck.001_R.003
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002/Neck.001_R.003/Neck.001_R.003_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/Cube
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal/R_Thumb_Distal_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot/L_Foot_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot/R_Foot_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T1K1_Armature|NPC@Idle2
+      takeName: T1K1_Armature|NPC@Idle2
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cube.002
+        weight: 1
+      - path: Cube.005
+        weight: 1
+      - path: Cube.006
+        weight: 1
+      - path: Cube.007
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: T1K1_Armature
+        weight: 1
+      - path: T1K1_Armature/WorldBone
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegIK
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegIK/L_LegIK_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: T1K1_Armature/WorldBone/L_LegPT/L_LegPT_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegIK
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegIK/R_LegIK_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegPT
+        weight: 1
+      - path: T1K1_Armature/WorldBone/R_LegPT/R_LegPT_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Head_Target/Head_Target_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Cube.008
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Hand.001/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal/L_Thumb_Distal_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3/Beard_4
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Beard/Beard_2/Beard3/Beard_4/Beard_4_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002/Neck.001_L.003
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_L.001/Neck.001_L.002/Neck.001_L.003/Neck.001_L.003_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002/Neck.001_R.003
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Jaw/Neck.001_R.001/Neck.001_R.002/Neck.001_R.003/Neck.001_R.003_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/Cube
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_Hand.001/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal/R_Thumb_Distal_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot/L_Foot_end
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: T1K1_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot/R_Foot_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 3
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

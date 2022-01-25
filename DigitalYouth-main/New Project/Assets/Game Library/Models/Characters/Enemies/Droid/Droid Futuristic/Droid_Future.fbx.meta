@@ -1,0 +1,1837 @@
+fileFormatVersion: 2
+guid: c8274815a634ba64eba37e7fab74eb9f
+timeCreated: 1480975457
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Antenna1_1
+    100002: Antenna1_2
+    100004: Antenna1_3
+    100006: Antenna1_4
+    100008: Antenna2
+    100010: Body
+    100012: Bone
+    100014: Bone_005
+    100016: Droid_Arm_Mesh
+    100018: Droid_Backpack_Mesh
+    100020: Droid_Body_Mesh
+    100022: Droid_Detail_Mesh
+    100024: Droid_Eye_Mesh
+    100026: Droid_FuelTank_Mesh
+    100028: //RootNode
+    100030: Droid_Hand2_Mesh
+    100032: Droid_Head
+    100034: Droid_Shoulder_Mesh
+    100036: Droid_Vines
+    100038: Enemy1_Armature
+    100040: Enemy_Vine1
+    100042: Enemy_Vine10
+    100044: Enemy_Vine11
+    100046: Enemy_Vine12
+    100048: Enemy_Vine2
+    100050: Enemy_Vine3
+    100052: Enemy_Vine4
+    100054: Enemy_Vine5
+    100056: Enemy_Vine6
+    100058: Enemy_Vine7
+    100060: Enemy_Vine8
+    100062: Enemy_Vine9
+    100064: Enemy_Vine_Base
+    100066: Eyeball
+    100068: EyeLid_Lower
+    100070: EyeLid_Upper
+    100072: Fuel_Pack
+    100074: Head
+    100076: L_ArmIK
+    100078: L_ArmPT
+    100080: L_Hand
+    100082: L_Little_Distal
+    100084: L_Little_Intermediate
+    100086: L_Little_Proximial
+    100088: L_LowerArm
+    100090: L_Middle_Distal
+    100092: L_Middle_Intermediate
+    100094: L_Middle_Proximial
+    100096: L_Pointer_Distal
+    100098: L_Pointer_Intermediate
+    100100: L_Pointer_Proximial
+    100102: L_Thumb_Distal
+    100104: L_Thumb_Intermediate
+    100106: L_Thumb_Proximial
+    100108: L_UpperArm
+    100110: R_ArmIK
+    100112: R_ArmPT
+    100114: R_Hand
+    100116: R_Little_Distal
+    100118: R_Little_Intermediate
+    100120: R_Little_Proximial
+    100122: R_LowerArm
+    100124: R_Middle_Distal
+    100126: R_Middle_Intermediate
+    100128: R_Middle_Proximial
+    100130: R_Pointer_Distal
+    100132: R_Pointer_Intermediate
+    100134: R_Pointer_Proximial
+    100136: R_Thumb_Distal
+    100138: R_Thumb_Intermediate
+    100140: R_Thumb_Proximial
+    100142: R_UpperArm
+    100144: Wire1
+    100146: Wire2
+    400000: Antenna1_1
+    400002: Antenna1_2
+    400004: Antenna1_3
+    400006: Antenna1_4
+    400008: Antenna2
+    400010: Body
+    400012: Bone
+    400014: Bone_005
+    400016: Droid_Arm_Mesh
+    400018: Droid_Backpack_Mesh
+    400020: Droid_Body_Mesh
+    400022: Droid_Detail_Mesh
+    400024: Droid_Eye_Mesh
+    400026: Droid_FuelTank_Mesh
+    400028: //RootNode
+    400030: Droid_Hand2_Mesh
+    400032: Droid_Head
+    400034: Droid_Shoulder_Mesh
+    400036: Droid_Vines
+    400038: Enemy1_Armature
+    400040: Enemy_Vine1
+    400042: Enemy_Vine10
+    400044: Enemy_Vine11
+    400046: Enemy_Vine12
+    400048: Enemy_Vine2
+    400050: Enemy_Vine3
+    400052: Enemy_Vine4
+    400054: Enemy_Vine5
+    400056: Enemy_Vine6
+    400058: Enemy_Vine7
+    400060: Enemy_Vine8
+    400062: Enemy_Vine9
+    400064: Enemy_Vine_Base
+    400066: Eyeball
+    400068: EyeLid_Lower
+    400070: EyeLid_Upper
+    400072: Fuel_Pack
+    400074: Head
+    400076: L_ArmIK
+    400078: L_ArmPT
+    400080: L_Hand
+    400082: L_Little_Distal
+    400084: L_Little_Intermediate
+    400086: L_Little_Proximial
+    400088: L_LowerArm
+    400090: L_Middle_Distal
+    400092: L_Middle_Intermediate
+    400094: L_Middle_Proximial
+    400096: L_Pointer_Distal
+    400098: L_Pointer_Intermediate
+    400100: L_Pointer_Proximial
+    400102: L_Thumb_Distal
+    400104: L_Thumb_Intermediate
+    400106: L_Thumb_Proximial
+    400108: L_UpperArm
+    400110: R_ArmIK
+    400112: R_ArmPT
+    400114: R_Hand
+    400116: R_Little_Distal
+    400118: R_Little_Intermediate
+    400120: R_Little_Proximial
+    400122: R_LowerArm
+    400124: R_Middle_Distal
+    400126: R_Middle_Intermediate
+    400128: R_Middle_Proximial
+    400130: R_Pointer_Distal
+    400132: R_Pointer_Intermediate
+    400134: R_Pointer_Proximial
+    400136: R_Thumb_Distal
+    400138: R_Thumb_Intermediate
+    400140: R_Thumb_Proximial
+    400142: R_UpperArm
+    400144: Wire1
+    400146: Wire2
+    4300000: Droid_Vines
+    4300002: Droid_Hand2_Mesh
+    4300004: Droid_Arm_Mesh
+    4300006: Droid_Backpack_Mesh
+    4300008: Droid_FuelTank_Mesh
+    4300010: Droid_Head
+    4300012: Droid_Eye_Mesh
+    4300014: Droid_Shoulder_Mesh
+    4300016: Droid_Body_Mesh
+    4300018: Droid_Detail_Mesh
+    7400000: Future_Droid_Attack1
+    7400002: Future_Droid_Attack2
+    7400004: Future_Droid_Default
+    7400006: Future_Droid_Hit1
+    7400008: Future_Droid_Hit2
+    7400010: Future_Droid_Hurt
+    7400012: Future_Droid_Idle
+    7400014: Future_Droid_LostPlayer
+    7400016: Future_Droid_Run
+    9500000: //RootNode
+    13700000: Droid_Arm_Mesh
+    13700002: Droid_Backpack_Mesh
+    13700004: Droid_Body_Mesh
+    13700006: Droid_Detail_Mesh
+    13700008: Droid_Eye_Mesh
+    13700010: Droid_FuelTank_Mesh
+    13700012: Droid_Hand2_Mesh
+    13700014: Droid_Head
+    13700016: Droid_Shoulder_Mesh
+    13700018: Droid_Vines
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 2
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Future_Droid_Attack1
+      takeName: Future_Droid_Attack1
+      firstFrame: 14
+      lastFrame: 25
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Attack2
+      takeName: Future_Droid_Attack2
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Default
+      takeName: Future_Droid_Default
+      firstFrame: 9
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Hit1
+      takeName: Future_Droid_Hit1
+      firstFrame: -1
+      lastFrame: 10
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Hit2
+      takeName: Future_Droid_Hit2
+      firstFrame: -1
+      lastFrame: 14
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Hurt
+      takeName: Future_Droid_Hurt
+      firstFrame: -1
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Idle
+      takeName: Future_Droid_Idle
+      firstFrame: -1
+      lastFrame: 189
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_LostPlayer
+      takeName: Future_Droid_LostPlayer
+      firstFrame: 1
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Droid_Run
+      takeName: Future_Droid_Run
+      firstFrame: -1
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Droid_Arm_Mesh
+        weight: 1
+      - path: Droid_Backpack_Mesh
+        weight: 1
+      - path: Droid_Body_Mesh
+        weight: 1
+      - path: Droid_Detail_Mesh
+        weight: 1
+      - path: Droid_Eye_Mesh
+        weight: 1
+      - path: Droid_FuelTank_Mesh
+        weight: 1
+      - path: Droid_Hand2_Mesh
+        weight: 1
+      - path: Droid_Head
+        weight: 1
+      - path: Droid_Shoulder_Mesh
+        weight: 1
+      - path: Droid_Vines
+        weight: 1
+      - path: Enemy1_Armature
+        weight: 1
+      - path: Enemy1_Armature/Bone
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna1_1/Antenna1_2/Antenna1_3/Antenna1_4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Antenna2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Bone_005/Fuel_Pack
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine1/Enemy_Vine2
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine3/Enemy_Vine4/Enemy_Vine5
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine6/Enemy_Vine7/Enemy_Vine8
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine9
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine10/Enemy_Vine11
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Enemy_Vine_Base/Enemy_Vine12
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Lower
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Head/Eyeball/EyeLid_Upper
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/L_UpperArm/L_LowerArm/L_Hand/L_Thumb_Proximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmIK
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_ArmPT
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/R_UpperArm/R_LowerArm/R_Hand/R_Thumb_Proximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire1
+        weight: 1
+      - path: Enemy1_Armature/Bone/Body/Wire2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,312 @@
+fileFormatVersion: 2
+guid: 56177f99b1eba43b783b1a61230a39e8
+timeCreated: 1473437223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Body_001
+    100006: Body_L_003
+    100008: Body_L_004
+    100010: Body_L_005
+    100012: Body_L_006
+    100014: Body_L_007
+    100016: Body_L_008
+    100018: Body_R_003
+    100020: Body_R_004
+    100022: Body_R_005
+    100024: Body_R_006
+    100026: Body_R_007
+    100028: Body_R_008
+    100030: Cube_008
+    100032: Cube_010
+    100034: Cube_013
+    100036: Cylinder
+    100038: Cylinder_001
+    100040: Cylinder_005
+    100042: Cylinder_010
+    100044: Cylinder_011
+    100046: Cylinder_016
+    100048: Cylinder_017
+    100050: Cylinder_019
+    100052: Cylinder_020
+    100054: //RootNode
+    100056: EnergyBlaster_Arm
+    100058: EnergyBlaster_Arm_002
+    100060: Mount
+    100062: Mount_001
+    100064: Mount_002
+    100066: Sphere
+    100068: Head
+    100070: L_Fang
+    100072: L_FrontLeg_PT
+    100074: L_FrontLegIK
+    100076: L_FrontLegLower
+    100078: L_FrontLegPivot
+    100080: L_FrontLegUpper
+    100082: L_HindLeg_Pivot
+    100084: L_HindLeg_PT
+    100086: L_HindLegIK
+    100088: L_HindLegLower
+    100090: L_HindLegUpper
+    100092: R_Fang
+    100094: R_FrontLegIK
+    100096: R_FrontLegLower
+    100098: R_FrontLegPivot
+    100100: R_FrontLegPT
+    100102: R_FrontLegUpper
+    100104: R_HindLeg_Pivot
+    100106: R_HindLegIK
+    100108: R_HindLegLower
+    100110: R_HindLegPT
+    100112: R_HindLegUpper
+    100114: World_Bone
+    400000: Armature
+    400002: Body
+    400004: Body_001
+    400006: Body_L_003
+    400008: Body_L_004
+    400010: Body_L_005
+    400012: Body_L_006
+    400014: Body_L_007
+    400016: Body_L_008
+    400018: Body_R_003
+    400020: Body_R_004
+    400022: Body_R_005
+    400024: Body_R_006
+    400026: Body_R_007
+    400028: Body_R_008
+    400030: Cube_008
+    400032: Cube_010
+    400034: Cube_013
+    400036: Cylinder
+    400038: Cylinder_001
+    400040: Cylinder_005
+    400042: Cylinder_010
+    400044: Cylinder_011
+    400046: Cylinder_016
+    400048: Cylinder_017
+    400050: Cylinder_019
+    400052: Cylinder_020
+    400054: //RootNode
+    400056: EnergyBlaster_Arm
+    400058: EnergyBlaster_Arm_002
+    400060: Mount
+    400062: Mount_001
+    400064: Mount_002
+    400066: Sphere
+    400068: Head
+    400070: L_Fang
+    400072: L_FrontLeg_PT
+    400074: L_FrontLegIK
+    400076: L_FrontLegLower
+    400078: L_FrontLegPivot
+    400080: L_FrontLegUpper
+    400082: L_HindLeg_Pivot
+    400084: L_HindLeg_PT
+    400086: L_HindLegIK
+    400088: L_HindLegLower
+    400090: L_HindLegUpper
+    400092: R_Fang
+    400094: R_FrontLegIK
+    400096: R_FrontLegLower
+    400098: R_FrontLegPivot
+    400100: R_FrontLegPT
+    400102: R_FrontLegUpper
+    400104: R_HindLeg_Pivot
+    400106: R_HindLegIK
+    400108: R_HindLegLower
+    400110: R_HindLegPT
+    400112: R_HindLegUpper
+    400114: World_Bone
+    4300000: Cylinder_001
+    4300002: Cylinder_017
+    4300004: Cylinder_019
+    4300006: Cube_013
+    4300008: Cylinder_020
+    4300010: Cylinder_011
+    4300012: Cylinder
+    4300014: Cylinder_016
+    4300016: Cylinder_005
+    4300018: Cube_008
+    4300020: Cylinder_010
+    4300022: Cube_010
+    4300024: Sphere
+    7400000: Enemy2_IdleDefense
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Cube_008
+    13700002: Cube_010
+    13700004: Cube_013
+    13700006: Cylinder
+    13700008: Cylinder_001
+    13700010: Cylinder_005
+    13700012: Cylinder_010
+    13700014: Cylinder_011
+    13700016: Cylinder_016
+    13700018: Cylinder_017
+    13700020: Cylinder_019
+    13700022: Cylinder_020
+    13700024: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Enemy2_IdleDefense
+      takeName: Enemy2_IdleDefense
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Body
+        weight: 1
+      - path: Armature/Body/Body_001
+        weight: 1
+      - path: Armature/Body/Body_L_003
+        weight: 1
+      - path: Armature/Body/Body_L_003/Body_L_005
+        weight: 1
+      - path: Armature/Body/Body_L_003/Body_L_005/Body_L_007
+        weight: 1
+      - path: Armature/Body/Body_L_004
+        weight: 1
+      - path: Armature/Body/Body_L_004/Body_L_006
+        weight: 1
+      - path: Armature/Body/Body_L_004/Body_L_006/Body_L_008
+        weight: 1
+      - path: Armature/Body/Body_R_003
+        weight: 1
+      - path: Armature/Body/Body_R_003/Body_R_005
+        weight: 1
+      - path: Armature/Body/Body_R_003/Body_R_005/Body_R_007
+        weight: 1
+      - path: Armature/Body/Body_R_004
+        weight: 1
+      - path: Armature/Body/Body_R_004/Body_R_006
+        weight: 1
+      - path: Armature/Body/Body_R_004/Body_R_006/Body_R_008
+        weight: 1
+      - path: Armature/Body/Mount_001
+        weight: 1
+      - path: Armature/Body/Mount_001/Mount
+        weight: 1
+      - path: Armature/Body/Mount_001/Mount/EnergyBlaster_Arm
+        weight: 1
+      - path: Armature/Body/Mount_001/Mount/EnergyBlaster_Arm/EnergyBlaster_Arm_002
+        weight: 1
+      - path: Armature/Body/Mount_001/Mount/Mount_002
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cube_013
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Cylinder_017
+        weight: 1
+      - path: Cylinder_019
+        weight: 1
+      - path: Cylinder_020
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 75
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

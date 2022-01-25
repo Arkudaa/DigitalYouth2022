@@ -1,0 +1,745 @@
+fileFormatVersion: 2
+guid: afa77f901c9e54e46a2cd2fd1c522220
+timeCreated: 1481152686
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Cube_008
+    100006: Cube_010
+    100008: Cylinder
+    100010: Cylinder_001
+    100012: Cylinder_005
+    100014: Cylinder_010
+    100016: Cylinder_011
+    100018: Cylinder_016
+    100020: //RootNode
+    100022: Head
+    100024: L_Fang
+    100026: L_FrontLegLower
+    100028: L_FrontLegPivot
+    100030: L_FrontLegUpper
+    100032: L_HindLeg_Pivot
+    100034: L_HindLegLower
+    100036: L_HindLegUpper
+    100038: R_Fang
+    100040: R_FrontLegLower
+    100042: R_FrontLegPivot
+    100044: R_FrontLegUpper
+    100046: R_HindLeg_Pivot
+    100048: R_HindLegLower
+    100050: R_HindLegUpper
+    100052: Sphere
+    100054: World_Bone
+    400000: Armature
+    400002: Body
+    400004: Cube_008
+    400006: Cube_010
+    400008: Cylinder
+    400010: Cylinder_001
+    400012: Cylinder_005
+    400014: Cylinder_010
+    400016: Cylinder_011
+    400018: Cylinder_016
+    400020: //RootNode
+    400022: Head
+    400024: L_Fang
+    400026: L_FrontLegLower
+    400028: L_FrontLegPivot
+    400030: L_FrontLegUpper
+    400032: L_HindLeg_Pivot
+    400034: L_HindLegLower
+    400036: L_HindLegUpper
+    400038: R_Fang
+    400040: R_FrontLegLower
+    400042: R_FrontLegPivot
+    400044: R_FrontLegUpper
+    400046: R_HindLeg_Pivot
+    400048: R_HindLegLower
+    400050: R_HindLegUpper
+    400052: Sphere
+    400054: World_Bone
+    4300000: Cylinder_001
+    4300002: Cylinder_011
+    4300004: Cylinder
+    4300006: Cylinder_016
+    4300008: Cylinder_005
+    4300010: Cube_008
+    4300012: Cylinder_010
+    4300014: Cube_010
+    4300016: Sphere
+    7400000: Future_Spider_Default
+    7400002: Future_Spider_Die
+    7400004: Future_Spider_Hit
+    7400006: Future_Spider_Idle1
+    7400008: Future_Spider_Idle2
+    7400010: Future_Spider_Shoot
+    7400012: Future_Spider_Walk
+    9500000: //RootNode
+    13700000: Cube_008
+    13700002: Cube_010
+    13700004: Cylinder
+    13700006: Cylinder_001
+    13700008: Cylinder_005
+    13700010: Cylinder_010
+    13700012: Cylinder_011
+    13700014: Cylinder_016
+    13700016: Sphere
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Future_Spider_Default
+      takeName: Future_Spider_Default
+      firstFrame: -1
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Die
+      takeName: Future_Spider_Die
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Hit
+      takeName: Future_Spider_Hit
+      firstFrame: -1
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Idle1
+      takeName: Future_Spider_Idle1
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Idle2
+      takeName: Future_Spider_Idle2
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Shoot
+      takeName: Future_Spider_Shoot
+      firstFrame: -1
+      lastFrame: 76
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Future_Spider_Walk
+      takeName: Future_Spider_Walk
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/World_Bone
+        weight: 1
+      - path: Armature/World_Bone/Body
+        weight: 1
+      - path: Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Cube_008
+        weight: 1
+      - path: Cube_010
+        weight: 1
+      - path: Cylinder
+        weight: 1
+      - path: Cylinder_001
+        weight: 1
+      - path: Cylinder_005
+        weight: 1
+      - path: Cylinder_010
+        weight: 1
+      - path: Cylinder_011
+        weight: 1
+      - path: Cylinder_016
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

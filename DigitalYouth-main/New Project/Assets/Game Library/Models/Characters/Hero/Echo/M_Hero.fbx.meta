@@ -1,0 +1,2584 @@
+fileFormatVersion: 2
+guid: f58b705083495564594e052accf08413
+timeCreated: 1475760867
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cape_Bone1
+    100002: Cape_Bone2
+    100004: Cape_Bone3
+    100006: Cape_Bone4
+    100008: Head
+    100010: Head_Target
+    100012: Helmet_3
+    100014: Hip
+    100016: L_Eye
+    100018: L_Fingers_Middle
+    100020: L_Fingers_Tip
+    100022: L_FingersBase
+    100024: L_Foot
+    100026: L_Forearm
+    100028: L_Hand
+    100030: L_Knee
+    100032: L_LegPT
+    100034: L_Lower_Eyelid
+    100036: L_Shoulder
+    100038: L_Thigh
+    100040: L_Thumb_Distal
+    100042: L_Thumb_Intermediate
+    100044: L_ThumbProximial
+    100046: L_Upper_Eyelid
+    100048: L_UpperArm
+    100050: //RootNode
+    100052: M_Hero_Armature
+    100054: M_Hero_Chestpiece_Cape_Mesh
+    100056: M_Hero_Scfi_Body_Mesh
+    100058: Player_Boots_Mesh
+    100060: Player_Hands_Mesh_001
+    100062: Player_Wrist_Mesh
+    100064: R_Eye
+    100066: R_Fingers_Middle
+    100068: R_Fingers_Tip
+    100070: R_FingersBase
+    100072: R_Foot
+    100074: R_Forearm
+    100076: R_Hand
+    100078: R_Knee
+    100080: R_Lower_Eyelid
+    100082: R_Shoulder
+    100084: R_Thigh
+    100086: R_Thumb_Distal
+    100088: R_Thumb_Intermediate
+    100090: R_ThumbProximial
+    100092: R_Upper_Eyelid
+    100094: R_UpperArm
+    100096: Spine
+    100098: Waist
+    100100: WaistController
+    100102: WorldBone
+    400000: Cape_Bone1
+    400002: Cape_Bone2
+    400004: Cape_Bone3
+    400006: Cape_Bone4
+    400008: Head
+    400010: Head_Target
+    400012: Helmet_3
+    400014: Hip
+    400016: L_Eye
+    400018: L_Fingers_Middle
+    400020: L_Fingers_Tip
+    400022: L_FingersBase
+    400024: L_Foot
+    400026: L_Forearm
+    400028: L_Hand
+    400030: L_Knee
+    400032: L_LegPT
+    400034: L_Lower_Eyelid
+    400036: L_Shoulder
+    400038: L_Thigh
+    400040: L_Thumb_Distal
+    400042: L_Thumb_Intermediate
+    400044: L_ThumbProximial
+    400046: L_Upper_Eyelid
+    400048: L_UpperArm
+    400050: //RootNode
+    400052: M_Hero_Armature
+    400054: M_Hero_Chestpiece_Cape_Mesh
+    400056: M_Hero_Scfi_Body_Mesh
+    400058: Player_Boots_Mesh
+    400060: Player_Hands_Mesh_001
+    400062: Player_Wrist_Mesh
+    400064: R_Eye
+    400066: R_Fingers_Middle
+    400068: R_Fingers_Tip
+    400070: R_FingersBase
+    400072: R_Foot
+    400074: R_Forearm
+    400076: R_Hand
+    400078: R_Knee
+    400080: R_Lower_Eyelid
+    400082: R_Shoulder
+    400084: R_Thigh
+    400086: R_Thumb_Distal
+    400088: R_Thumb_Intermediate
+    400090: R_ThumbProximial
+    400092: R_Upper_Eyelid
+    400094: R_UpperArm
+    400096: Spine
+    400098: Waist
+    400100: WaistController
+    400102: WorldBone
+    4300000: Helmet_3
+    4300002: Player_Boots_Mesh
+    4300004: M_Hero_Scfi_Body_Mesh
+    4300006: Player_Wrist_Mesh
+    4300008: M_Hero_Chestpiece_Cape_Mesh
+    4300010: Player_Hands_Mesh_001
+    7400000: Default
+    7400002: Hero_ArmatureAction
+    7400004: Player_Box_Pull
+    7400006: Player_DoubleJump1
+    7400008: Player_Fall
+    7400010: Player_Hold_Pickup
+    7400012: Player_Idle
+    7400014: Player_Idle_Relaxed
+    7400016: Player_Item_Pickup
+    7400018: Player_Item_Throw
+    7400020: Player_Jump
+    7400022: Player_KnockedBack
+    7400024: Player_Pose1
+    7400026: Player_Run_Sprint
+    7400028: Player_RunOriginal
+    7400030: Player_Spin_Attack
+    7400032: Player_TakeHit1
+    7400034: Player_TakeHit2
+    7400036: Player_Wave
+    7400038: XPlayer_Celebrate
+    9500000: //RootNode
+    13700000: Helmet_3
+    13700002: M_Hero_Chestpiece_Cape_Mesh
+    13700004: M_Hero_Scfi_Body_Mesh
+    13700006: Player_Boots_Mesh
+    13700008: Player_Hands_Mesh_001
+    13700010: Player_Wrist_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default
+      takeName: Default
+      firstFrame: 0.6
+      lastFrame: 0.6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.59999996
+    - serializedVersion: 16
+      name: Player_Box_Pull
+      takeName: Player_Box_Pull
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_DoubleJump1
+      takeName: Player_DoubleJump1
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Fall
+      takeName: Player_Fall
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Hold_Pickup
+      takeName: Player_Hold_Pickup
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 0
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 0
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 0
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 0
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 0
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 0
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Idle
+      takeName: Player_Idle
+      firstFrame: 0
+      lastFrame: 209
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Idle_Relaxed
+      takeName: Player_Idle_Relaxed
+      firstFrame: 1
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Item_Pickup
+      takeName: Player_Item_Pickup
+      firstFrame: 0
+      lastFrame: 55
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Item_Throw
+      takeName: Player_Item_Throw
+      firstFrame: 0
+      lastFrame: 43
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Jump
+      takeName: Player_Jump
+      firstFrame: 0
+      lastFrame: 35
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_KnockedBack
+      takeName: Player_KnockedBack
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Pose1
+      takeName: Player_Pose1
+      firstFrame: 0.6
+      lastFrame: 0.6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.59999996
+    - serializedVersion: 16
+      name: Player_Run_Sprint
+      takeName: Player_Run_Sprint
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_RunOriginal
+      takeName: Player_RunOriginal
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Spin_Attack
+      takeName: Player_Spin_Attack
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_TakeHit1
+      takeName: Player_TakeHit1
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_TakeHit2
+      takeName: Player_TakeHit2
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Player_Wave
+      takeName: Player_Wave
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Helmet_3
+        weight: 1
+      - path: M_Hero_Armature
+        weight: 1
+      - path: M_Hero_Armature/WorldBone
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Cape_Bone1/Cape_Bone2/Cape_Bone3/Cape_Bone4
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/L_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Eye
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Lower_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/Head/R_Upper_Eyelid
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_FingersBase/L_Fingers_Middle/L_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_ThumbProximial/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_Shoulder
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_FingersBase/R_Fingers_Middle/R_Fingers_Tip
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/R_Hand/R_ThumbProximial/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: M_Hero_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: M_Hero_Chestpiece_Cape_Mesh
+        weight: 1
+      - path: M_Hero_Scfi_Body_Mesh
+        weight: 1
+      - path: Player_Boots_Mesh
+        weight: 1
+      - path: Player_Hands_Mesh_001
+        weight: 1
+      - path: Player_Wrist_Mesh
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: M_Hero_Armature
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

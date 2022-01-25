@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: e684daaae03b85541a65e9685a65e36b
+timeCreated: 1481154422
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body
+    100002: Body_002
+    100004: Body_003
+    100006: //RootNode
+    100008: Furnace_Body
+    100010: Head
+    100012: L_Fang
+    100014: L_Front_Cog
+    100016: L_FrontLegLower
+    100018: L_FrontLegPivot
+    100020: L_FrontLegUpper
+    100022: L_Hind_Cog
+    100024: L_HindLeg_Pivot
+    100026: L_HindLegLower
+    100028: L_HindLegUpper
+    100030: Pipe_1
+    100032: Pipe_2
+    100034: R_Fang
+    100036: R_FrontLegLower
+    100038: R_FrontLegPivot
+    100040: R_FrontLegUpper
+    100042: R_Hind_Cog
+    100044: R_Hind_Leg
+    100046: R_HindLeg_Pivot
+    100048: R_HindLegLower
+    100050: R_HindLegUpper
+    100052: Spider_Abdomen_Mesh
+    100054: Spider_Body_Mesh
+    100056: Spider_Eyes_Mesh
+    100058: Spider_Fantasy_Armature
+    100060: Spider_Furnace_Mesh
+    100062: Spider_Head_Mesh
+    100064: Spider_HeadAccent_Mesh
+    100066: Spider_Legs_Mesh
+    100068: World_Bone
+    400000: Body
+    400002: Body_002
+    400004: Body_003
+    400006: //RootNode
+    400008: Furnace_Body
+    400010: Head
+    400012: L_Fang
+    400014: L_Front_Cog
+    400016: L_FrontLegLower
+    400018: L_FrontLegPivot
+    400020: L_FrontLegUpper
+    400022: L_Hind_Cog
+    400024: L_HindLeg_Pivot
+    400026: L_HindLegLower
+    400028: L_HindLegUpper
+    400030: Pipe_1
+    400032: Pipe_2
+    400034: R_Fang
+    400036: R_FrontLegLower
+    400038: R_FrontLegPivot
+    400040: R_FrontLegUpper
+    400042: R_Hind_Cog
+    400044: R_Hind_Leg
+    400046: R_HindLeg_Pivot
+    400048: R_HindLegLower
+    400050: R_HindLegUpper
+    400052: Spider_Abdomen_Mesh
+    400054: Spider_Body_Mesh
+    400056: Spider_Eyes_Mesh
+    400058: Spider_Fantasy_Armature
+    400060: Spider_Furnace_Mesh
+    400062: Spider_Head_Mesh
+    400064: Spider_HeadAccent_Mesh
+    400066: Spider_Legs_Mesh
+    400068: World_Bone
+    4300000: Spider_Furnace_Mesh
+    4300002: Spider_Body_Mesh
+    4300004: Spider_Abdomen_Mesh
+    4300006: Spider_Head_Mesh
+    4300008: Spider_HeadAccent_Mesh
+    4300010: Spider_Eyes_Mesh
+    4300012: Spider_Legs_Mesh
+    7400000: Fantasy_Spider_Delete
+    7400002: Fantasy_Spider_Hit
+    7400004: Fantasy_Spider_Default
+    7400006: Fantasy_Spider_Idle1
+    7400008: Fantasy_Spider_Idle2
+    7400010: Fantasy_Spider_Shoot
+    7400012: Fantasy_Spider_Walk
+    9500000: //RootNode
+    13700000: Spider_Abdomen_Mesh
+    13700002: Spider_Body_Mesh
+    13700004: Spider_Eyes_Mesh
+    13700006: Spider_Furnace_Mesh
+    13700008: Spider_Head_Mesh
+    13700010: Spider_HeadAccent_Mesh
+    13700012: Spider_Legs_Mesh
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fantasy_Spider_Hit
+      takeName: Fantasy_Spider__Hit
+      firstFrame: 0
+      lastFrame: 13
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Spider_Default
+      takeName: Fantasy_Spider_Default
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Spider_Idle1
+      takeName: Fantasy_Spider_Idle1
+      firstFrame: 0
+      lastFrame: 119
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Spider_Idle2
+      takeName: Fantasy_Spider_Idle2
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Spider_Shoot
+      takeName: Fantasy_Spider_Shoot
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fantasy_Spider_Walk
+      takeName: Fantasy_Spider_Walk
+      firstFrame: 0
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Spider_Abdomen_Mesh
+        weight: 1
+      - path: Spider_Body_Mesh
+        weight: 1
+      - path: Spider_Eyes_Mesh
+        weight: 1
+      - path: Spider_Fantasy_Armature
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Body_002
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Body_003
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_1
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Furnace_Body/Pipe_2
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/L_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/Head/R_Fang
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_Front_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_FrontLegPivot/L_FrontLegUpper/L_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/L_HindLeg_Pivot/L_HindLegUpper/L_HindLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_FrontLegLower
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_FrontLegPivot/R_FrontLegUpper/R_Hind_Leg
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_Hind_Cog
+        weight: 1
+      - path: Spider_Fantasy_Armature/World_Bone/Body/R_HindLeg_Pivot/R_HindLegUpper/R_HindLegLower
+        weight: 1
+      - path: Spider_Furnace_Mesh
+        weight: 1
+      - path: Spider_Head_Mesh
+        weight: 1
+      - path: Spider_HeadAccent_Mesh
+        weight: 1
+      - path: Spider_Legs_Mesh
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

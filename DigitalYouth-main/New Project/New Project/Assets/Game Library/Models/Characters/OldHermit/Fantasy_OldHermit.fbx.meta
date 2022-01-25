@@ -1,0 +1,1158 @@
+fileFormatVersion: 2
+guid: 27ba70faa41d3ce4c987969880bb05ba
+timeCreated: 1481145960
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BackPack
+    100002: Beard1_L_Mid
+    100004: Beard1_LBase
+    100006: Beard1_LTip
+    100008: Beard1_R_Base
+    100010: Beard1_R_Mid
+    100012: Beard1_R_Tip
+    100014: Beard_1
+    100016: Beard_2
+    100018: Beard_3
+    100020: Beard_4
+    100022: //RootNode
+    100024: Head
+    100026: Head_Target
+    100028: Hermit_Armature
+    100030: Hermit_Backpack_Mesh
+    100032: Hermit_BagPickaxe
+    100034: Hermit_Beard1_Mesh
+    100036: Hermit_Body_Mesh_001
+    100038: Hermit_Boots_Mesh
+    100040: Hermit_Boots_Mesh_002
+    100042: Hermit_CrystalBundle_Mesh
+    100044: Hermit_LowerArmor_Mesh
+    100046: Hermit_Pants_Mesh
+    100048: Hermit_Z1_Mesh
+    100050: Hip
+    100052: Holstered_Pickaxe
+    100054: L_Foot
+    100056: L_Forearm
+    100058: L_Hand
+    100060: L_Hand_001
+    100062: L_HandEquip
+    100064: L_Knee
+    100066: L_LegPT
+    100068: L_Little_Distal
+    100070: L_Little_Intermediate
+    100072: L_Little_Proximial
+    100074: L_Middle_Distal
+    100076: L_Middle_Intermediate
+    100078: L_Middle_Proximial
+    100080: L_Pointer_Distal
+    100082: L_Pointer_Intermediate
+    100084: L_Pointer_Proximial
+    100086: L_Thigh
+    100088: L_Thumb_Distal
+    100090: L_Thumb_Intermediate
+    100092: L_UpperArm
+    100094: LoinCloth_Base
+    100096: LoinCloth_Middle
+    100098: LoinCloth_Tip
+    100100: Mouth_Lower
+    100102: Mouth_Upper
+    100104: Neck
+    100106: NPC_Hat
+    100108: NPC_Hermit
+    100110: R_Foot
+    100112: R_Forearm
+    100114: R_HandEquip
+    100116: R_Knee
+    100118: R_Little_Distal
+    100120: R_Little_Intermediate
+    100122: R_Little_Proximial
+    100124: R_Middle_Distal
+    100126: R_Middle_Intermediate
+    100128: R_Middle_Proximial
+    100130: R_Pointer_Distal
+    100132: R_Pointer_Intermediate
+    100134: R_Pointer_Proximial
+    100136: R_Thigh
+    100138: R_Thumb_Distal
+    100140: R_Thumb_Intermediate
+    100142: R_UpperArm
+    100144: Spine
+    100146: Waist
+    100148: WaistController
+    100150: WorldBone
+    400000: BackPack
+    400002: Beard1_L_Mid
+    400004: Beard1_LBase
+    400006: Beard1_LTip
+    400008: Beard1_R_Base
+    400010: Beard1_R_Mid
+    400012: Beard1_R_Tip
+    400014: Beard_1
+    400016: Beard_2
+    400018: Beard_3
+    400020: Beard_4
+    400022: //RootNode
+    400024: Head
+    400026: Head_Target
+    400028: Hermit_Armature
+    400030: Hermit_Backpack_Mesh
+    400032: Hermit_BagPickaxe
+    400034: Hermit_Beard1_Mesh
+    400036: Hermit_Body_Mesh_001
+    400038: Hermit_Boots_Mesh
+    400040: Hermit_Boots_Mesh_002
+    400042: Hermit_CrystalBundle_Mesh
+    400044: Hermit_LowerArmor_Mesh
+    400046: Hermit_Pants_Mesh
+    400048: Hermit_Z1_Mesh
+    400050: Hip
+    400052: Holstered_Pickaxe
+    400054: L_Foot
+    400056: L_Forearm
+    400058: L_Hand
+    400060: L_Hand_001
+    400062: L_HandEquip
+    400064: L_Knee
+    400066: L_LegPT
+    400068: L_Little_Distal
+    400070: L_Little_Intermediate
+    400072: L_Little_Proximial
+    400074: L_Middle_Distal
+    400076: L_Middle_Intermediate
+    400078: L_Middle_Proximial
+    400080: L_Pointer_Distal
+    400082: L_Pointer_Intermediate
+    400084: L_Pointer_Proximial
+    400086: L_Thigh
+    400088: L_Thumb_Distal
+    400090: L_Thumb_Intermediate
+    400092: L_UpperArm
+    400094: LoinCloth_Base
+    400096: LoinCloth_Middle
+    400098: LoinCloth_Tip
+    400100: Mouth_Lower
+    400102: Mouth_Upper
+    400104: Neck
+    400106: NPC_Hat
+    400108: NPC_Hermit
+    400110: R_Foot
+    400112: R_Forearm
+    400114: R_HandEquip
+    400116: R_Knee
+    400118: R_Little_Distal
+    400120: R_Little_Intermediate
+    400122: R_Little_Proximial
+    400124: R_Middle_Distal
+    400126: R_Middle_Intermediate
+    400128: R_Middle_Proximial
+    400130: R_Pointer_Distal
+    400132: R_Pointer_Intermediate
+    400134: R_Pointer_Proximial
+    400136: R_Thigh
+    400138: R_Thumb_Distal
+    400140: R_Thumb_Intermediate
+    400142: R_UpperArm
+    400144: Spine
+    400146: Waist
+    400148: WaistController
+    400150: WorldBone
+    4300000: Hermit_Boots_Mesh_002
+    4300002: Hermit_Body_Mesh_001
+    4300004: NPC_Hermit
+    4300006: Hermit_CrystalBundle_Mesh
+    4300008: Hermit_Z1_Mesh
+    4300010: Hermit_BagPickaxe
+    4300012: Hermit_Pants_Mesh
+    4300014: Hermit_Boots_Mesh
+    4300016: Hermit_Backpack_Mesh
+    4300018: Hermit_Beard1_Mesh
+    4300020: Hermit_LowerArmor_Mesh
+    4300022: NPC_Hat
+    7400000: NPC_Hermit_Celebrate
+    7400002: NPC_Hermit_Give
+    7400004: NPC_Hermit_Idle
+    7400006: NPC_Hermit_Idle_Standing
+    7400008: NPC_Hermit_Sleep
+    7400010: NPC_Hermit_Wave
+    9500000: //RootNode
+    13700000: Hermit_Backpack_Mesh
+    13700002: Hermit_BagPickaxe
+    13700004: Hermit_Beard1_Mesh
+    13700006: Hermit_Body_Mesh_001
+    13700008: Hermit_Boots_Mesh
+    13700010: Hermit_Boots_Mesh_002
+    13700012: Hermit_CrystalBundle_Mesh
+    13700014: Hermit_LowerArmor_Mesh
+    13700016: Hermit_Pants_Mesh
+    13700018: Hermit_Z1_Mesh
+    13700020: NPC_Hat
+    13700022: NPC_Hermit
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: NPC_Hermit_Celebrate
+      takeName: NPC_Hermit_Celebrate
+      firstFrame: 0
+      lastFrame: 38
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hermit_Armature
+        weight: 1
+      - path: Hermit_Armature/WorldBone
+        weight: 1
+      - path: Hermit_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle/LoinCloth_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack/Holstered_Pickaxe
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid/Beard1_LTip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid/Beard1_R_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3/Beard_4
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Upper
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Hermit_Backpack_Mesh
+        weight: 1
+      - path: Hermit_BagPickaxe
+        weight: 1
+      - path: Hermit_Beard1_Mesh
+        weight: 1
+      - path: Hermit_Body_Mesh_001
+        weight: 1
+      - path: Hermit_Boots_Mesh
+        weight: 1
+      - path: Hermit_Boots_Mesh_002
+        weight: 1
+      - path: Hermit_CrystalBundle_Mesh
+        weight: 1
+      - path: Hermit_LowerArmor_Mesh
+        weight: 1
+      - path: Hermit_Pants_Mesh
+        weight: 1
+      - path: Hermit_Z1_Mesh
+        weight: 1
+      - path: NPC_Hat
+        weight: 1
+      - path: NPC_Hermit
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPC_Hermit_Give
+      takeName: NPC_Hermit_Give
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hermit_Armature
+        weight: 1
+      - path: Hermit_Armature/WorldBone
+        weight: 1
+      - path: Hermit_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle/LoinCloth_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack/Holstered_Pickaxe
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid/Beard1_LTip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid/Beard1_R_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3/Beard_4
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Upper
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Hermit_Backpack_Mesh
+        weight: 1
+      - path: Hermit_BagPickaxe
+        weight: 1
+      - path: Hermit_Beard1_Mesh
+        weight: 1
+      - path: Hermit_Body_Mesh_001
+        weight: 1
+      - path: Hermit_Boots_Mesh
+        weight: 1
+      - path: Hermit_Boots_Mesh_002
+        weight: 1
+      - path: Hermit_CrystalBundle_Mesh
+        weight: 1
+      - path: Hermit_LowerArmor_Mesh
+        weight: 1
+      - path: Hermit_Pants_Mesh
+        weight: 1
+      - path: Hermit_Z1_Mesh
+        weight: 1
+      - path: NPC_Hat
+        weight: 1
+      - path: NPC_Hermit
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPC_Hermit_Idle
+      takeName: NPC_Hermit_Idle
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hermit_Armature
+        weight: 1
+      - path: Hermit_Armature/WorldBone
+        weight: 1
+      - path: Hermit_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle/LoinCloth_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack/Holstered_Pickaxe
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid/Beard1_LTip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid/Beard1_R_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3/Beard_4
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Upper
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Hermit_Backpack_Mesh
+        weight: 1
+      - path: Hermit_BagPickaxe
+        weight: 1
+      - path: Hermit_Beard1_Mesh
+        weight: 1
+      - path: Hermit_Body_Mesh_001
+        weight: 1
+      - path: Hermit_Boots_Mesh
+        weight: 1
+      - path: Hermit_Boots_Mesh_002
+        weight: 1
+      - path: Hermit_CrystalBundle_Mesh
+        weight: 1
+      - path: Hermit_LowerArmor_Mesh
+        weight: 1
+      - path: Hermit_Pants_Mesh
+        weight: 1
+      - path: Hermit_Z1_Mesh
+        weight: 1
+      - path: NPC_Hat
+        weight: 1
+      - path: NPC_Hermit
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPC_Hermit_Idle_Standing
+      takeName: NPC_Hermit_Idle_Standing
+      firstFrame: 0
+      lastFrame: 0
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hermit_Armature
+        weight: 1
+      - path: Hermit_Armature/WorldBone
+        weight: 1
+      - path: Hermit_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle/LoinCloth_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack/Holstered_Pickaxe
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid/Beard1_LTip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid/Beard1_R_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3/Beard_4
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Upper
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Hermit_Backpack_Mesh
+        weight: 1
+      - path: Hermit_BagPickaxe
+        weight: 1
+      - path: Hermit_Beard1_Mesh
+        weight: 1
+      - path: Hermit_Body_Mesh_001
+        weight: 1
+      - path: Hermit_Boots_Mesh
+        weight: 1
+      - path: Hermit_Boots_Mesh_002
+        weight: 1
+      - path: Hermit_CrystalBundle_Mesh
+        weight: 1
+      - path: Hermit_LowerArmor_Mesh
+        weight: 1
+      - path: Hermit_Pants_Mesh
+        weight: 1
+      - path: Hermit_Z1_Mesh
+        weight: 1
+      - path: NPC_Hat
+        weight: 1
+      - path: NPC_Hermit
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: NPC_Hermit_Wave
+      takeName: NPC_Hermit_Wave
+      firstFrame: 0
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Hermit_Armature
+        weight: 1
+      - path: Hermit_Armature/WorldBone
+        weight: 1
+      - path: Hermit_Armature/WorldBone/L_LegPT
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Head_Target
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/LoinCloth_Base/LoinCloth_Middle/LoinCloth_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/BackPack/Holstered_Pickaxe
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Little_Proximial/L_Little_Intermediate/L_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Middle_Proximial/L_Middle_Intermediate/L_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Pointer_Proximial/L_Pointer_Intermediate/L_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/L_UpperArm/L_Forearm/L_Hand/L_Thumb_Intermediate/L_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_LBase/Beard1_L_Mid/Beard1_LTip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Beard1_R_Base/Beard1_R_Mid/Beard1_R_Tip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Lower/Beard_1/Beard_2/Beard_3/Beard_4
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/Neck/Head/Mouth_Upper
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_HandEquip
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Little_Proximial/R_Little_Intermediate/R_Little_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Middle_Proximial/R_Middle_Intermediate/R_Middle_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Pointer_Proximial/R_Pointer_Intermediate/R_Pointer_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/Hip/Spine/R_UpperArm/R_Forearm/L_Hand_001/R_Thumb_Intermediate/R_Thumb_Distal
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/L_Thigh/L_Knee/L_Foot
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Hermit_Armature/WorldBone/WaistController/Waist/R_Thigh/R_Knee/R_Foot
+        weight: 1
+      - path: Hermit_Backpack_Mesh
+        weight: 1
+      - path: Hermit_BagPickaxe
+        weight: 1
+      - path: Hermit_Beard1_Mesh
+        weight: 1
+      - path: Hermit_Body_Mesh_001
+        weight: 1
+      - path: Hermit_Boots_Mesh
+        weight: 1
+      - path: Hermit_Boots_Mesh_002
+        weight: 1
+      - path: Hermit_CrystalBundle_Mesh
+        weight: 1
+      - path: Hermit_LowerArmor_Mesh
+        weight: 1
+      - path: Hermit_Pants_Mesh
+        weight: 1
+      - path: Hermit_Z1_Mesh
+        weight: 1
+      - path: NPC_Hat
+        weight: 1
+      - path: NPC_Hermit
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

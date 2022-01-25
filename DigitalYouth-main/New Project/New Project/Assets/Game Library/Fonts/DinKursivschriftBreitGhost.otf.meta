@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 352479468fbe2407ca8e1a650184673c
+timeCreated: 1474996352
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Din Kursivschrift
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f1a67f02440844049eed1755022d29f, type: 3}
+  - {fileID: 12800000, guid: 26833746d491e48f7a35edcffd123d96, type: 3}
+  - {fileID: 12800000, guid: 0a6801968826a4d1089674f0dd6a304d, type: 3}
+  - {fileID: 12800000, guid: 27e266de04bb94360919b0b42520abd3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

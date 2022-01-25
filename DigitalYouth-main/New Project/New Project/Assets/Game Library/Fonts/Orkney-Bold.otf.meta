@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cc2c499352e2c4178a8388bfee97bab8
+timeCreated: 1474996352
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Orkney
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 812684c6f215d4d2f969185728e88411, type: 3}
+  - {fileID: 12800000, guid: 904d43d940987456a93d11c140590afb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
